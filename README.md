@@ -1,0 +1,4 @@
+SimpleCalc
+==========
+
+KotlinでAndroidアプリを作るためのサンプルです。
