@@ -1,0 +1,7 @@
+/gen
+/bin
+/out
+*.apk
+.DS_Store
+/lib/kotlin-runtime.jar
+/.idea/workspace.xml
